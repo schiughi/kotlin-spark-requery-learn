@@ -1,4 +1,4 @@
-package com.schiughi.kotlin_spark_requery_learn
+package com.schiughi.kotlin_spark_requery_learn.controllers
 
 import spark.Request
 import spark.Response
