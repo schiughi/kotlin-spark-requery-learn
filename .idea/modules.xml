@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-spark-requery-learn.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-spark-requery-learn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-spark-requery-learn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-spark-requery-learn_main.iml" group="kotlin-spark-requery-learn" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-spark-requery-learn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-spark-requery-learn_test.iml" group="kotlin-spark-requery-learn" />
     </modules>
   </component>
 </project>
